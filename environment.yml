@@ -1,0 +1,9 @@
+name: PyR
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - pyreadr
+  - python=3.7
+  - pip
+  
